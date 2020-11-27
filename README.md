@@ -8,7 +8,7 @@
 
 ### プリント基板
 ![プリント基板1](https://github.com/namikata2020/nutubeAMP/blob/master/nutubeAMP.png)
-![プリント基板2](https://github.com/namikata2020/nutubeAMP/blob/master/NutubeAMP.png)
+![プリント基板2](https://github.com/namikata2020/nutubeAMP/blob/master/nutubepho.png)
 
 
 [kicad](https://kicad.org/)で作成した回路図データです。
